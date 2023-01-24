@@ -20,7 +20,7 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'githubhost_WP-Site1-in-github' );
+define( 'DB_NAME', 'githubhost_Site01' );
 
 /** Database username */
 define( 'DB_USER', 'root' );
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         '*BOXEJ(g1yaHN5Q.06Pgl`:=dP5ZG~gX/Wnt^mlMuDh-Ve4s,K<Dd(NpP4<BwX%V' );
-define( 'SECURE_AUTH_KEY',  '&3aVJrS3ysfwNZb6-AGi@].iClkE{9K5q?#JdttCml4s?wN{sN/&Z/l>~31cl9cW' );
-define( 'LOGGED_IN_KEY',    ']_125h#|xapz69CH0hg;Pej2&Ym2U~![xQ/x}O5{3Mf->&1?^:P_O`glTH_?1Bz9' );
-define( 'NONCE_KEY',        'i;DImN1/ak`Z3;RGGJ8@LRZ>$[bi@JM^;#7fb%E<GjJ,tms%/WDYDg uckPUO}`~' );
-define( 'AUTH_SALT',        'f4@ U=;d%^&zZ-iiEf2aY~I7PlRpz}d!B#}(@1uB8T6KS~B2ziMCKI3N,{M3#=m&' );
-define( 'SECURE_AUTH_SALT', 'k@NK&,Ct<=L8anN.c7EfqUb|#(hm+O0zdM!.Xj(OgctLgMW+s08CL!I|z1&[ikt-' );
-define( 'LOGGED_IN_SALT',   'KKb@|w(P4V$2L{!jO$KRUN@_Cr)u44i%oCm=52_w6G_L3K@C7gJ5ERy,NBs,5&[.' );
-define( 'NONCE_SALT',       'L3zXhe_8Vk VE+&xo.#/1hSU|*CAMz^^5.tt-)nk+(T^6F3-d>TsAT{}_TgTL};W' );
+define( 'AUTH_KEY',         '%77L`:a7,YJ2+oZ^Al^V~&@g0%7M.#ePb/b?3k%5mRgUS,v6i0(0?/WfcoP0#aKw' );
+define( 'SECURE_AUTH_KEY',  'G%`ZwI|HfOwu_iJZqUOF$XDGN}yag7OC=[oNDq s-d41etE*<M IV{f/XL6I}4w[' );
+define( 'LOGGED_IN_KEY',    'msxfJ?7A&*,mOtY(kl+$ZtUDY;;CV!Hls&q5gHjO5^Ts6Qbr9%mL)bg*&A.`;0GQ' );
+define( 'NONCE_KEY',        '<1: eU-|44KF+Ljz/*S^/iw#WpIG>Z}=T?0?j}c*4ZeIq#@tFZVN^:[(._,Upt)-' );
+define( 'AUTH_SALT',        '.@6tPa1M320?2}8Es@(D<R.H-@cMmhg>/W%V+/?ZfW>|u )j0c7TTWpm70I A)@I' );
+define( 'SECURE_AUTH_SALT', '`Hu.:Q|4}aAP]#0H=u|.$9tgJG,3loo&<j9S5<zyYMXLr#I.RmXP1xR7T+k 7(cE' );
+define( 'LOGGED_IN_SALT',   '+@-Ne*Fp*].XCDF~)k{R6GZD+8bfON[v#^fT${If?YP[~K<=;:HD~fG|7q& P]0Y' );
+define( 'NONCE_SALT',       '[0_#K$tN3M9X_rx<xNpM6rKsG4P_2X w$Z:)u4`,h)59tG:WKRjYX@!0>;@Zoqn{' );
 
 /**#@-*/
 
